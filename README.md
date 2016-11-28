@@ -1,2 +1,2 @@
 # test
-exercise for uni
+exercise for uni. Github seems useful
